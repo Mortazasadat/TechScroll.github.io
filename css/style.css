@@ -1,0 +1,84 @@
+body{
+	
+	font-size: 16px;
+}
+nav.navbar{
+	background-color: #fff !important;
+	border: 0px;
+}
+.navbar-brand{
+	font-size: 20px;
+	color: #000 ; 
+	font-weight: bold;
+}
+.showcase-left img{
+	width: 80%;
+	padding-top:30px;
+	height: 500px; 
+	margin-left: 40px;
+}
+.showcase-right{
+padding-top: 90px;
+}
+.showcase-right p{
+	margin-top: 10px;
+}
+
+#testimonial{
+	background-color: #f1f1f1;
+	padding: 30px 0px 20px 0px;
+	margin-top: 10px;
+	text-align: center;
+}
+
+#testimonial p{
+	font-size: 18px;
+	color: #000;
+}
+#testimonial p.customer{
+	font-size: 15px;
+	color: #666;
+	text-align: center;
+}
+#info1 .infoleft img{
+	    width: 80%;
+	    height: 300px;
+	    margin-left: 40px;
+	    margin-bottom: 20px; 
+}
+
+#info1 .inforight{
+	margin-top: 90px;
+	color: #000;
+}
+#info1 .inforight h1{
+	font-weight: bold;
+	font-size: 32px;
+}
+
+#info1{
+	margin-bottom: 70px;
+}
+#info2{
+	margin: 20px 0px 60px 0px;
+}
+
+#info2 h1{
+	font-weight: bold;
+	font-size: 32px;
+	color: #000;
+}
+
+#contact{
+	background-image: url(../img/bg7.jpg);
+	padding: 40px;
+	color: #000;
+	border-top: 2px solid #333 ;
+	border-bottom: 2px solid #333 ;
+
+}
+
+#footer{
+	padding: 20px;
+	text-align: center; 
+}
